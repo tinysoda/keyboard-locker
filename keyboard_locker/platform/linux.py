@@ -1,5 +1,5 @@
-def lock_keyboard():
+def linux_lock_keyboard():
     print(" Linux: Locking keyboard")
 
-def unlock_keyboard():
+def linux_unlock_keyboard():
     print(" Linux: Unlocking keyboard")

@@ -1,5 +1,5 @@
-def lock_keyboard():
+def windows_lock_keyboard():
     print(" Windows: Locking keyboard")
 
-def unlock_keyboard():
+def windows_unlock_keyboard():
     print(" Windows: Unlocking keyboard")

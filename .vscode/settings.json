@@ -1,0 +1,8 @@
+{
+  "editor.fontFamily": "SF Pro, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.letterSpacing": 0.5,
+  "terminal.integrated.fontFamily": "SF Pro"
+}
