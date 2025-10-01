@@ -18,10 +18,3 @@ def unlock_keyboard():
     else:
         print("Unsupported platform")
 
-def toggle_keyboard():
-    global is_locked
-    if is_locked:
-        unlock_keyboard()
-    else:
-        lock_keyboard()
-    is_locked = not is_locked
